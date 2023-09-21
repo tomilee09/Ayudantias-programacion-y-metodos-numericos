@@ -1,0 +1,7 @@
+algoritmo de paso variable (listo)
+aplicaciones de integradores a diferentes casos (hacer lo de analitica)
++spline? X
+algo aleatorio (listo)
+stochastic differential equation
+monte carlo (listo)
+rk4 adaptativo con un problema de analitica (listo)
